@@ -1,0 +1,6 @@
+python-docx
+pandas
+streamlit
+Pillow
+lxml
+numpy
